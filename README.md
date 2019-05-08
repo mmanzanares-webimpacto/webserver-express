@@ -1,4 +1,4 @@
-# Código fuente de un servidor express, hbs, heroku básico
+# Código fuente de un servidor express... - Curso Node
 
 ```
 npm install
